@@ -2,9 +2,9 @@
 
 I'm Ikhsan Syahrizal, College Student at STMIK AKAKOM YOGYAKARTA  
 Majoring Computer Science (Informatics)  
-3rd year student.  
+6th year student.  
 
-- 🌱 I’m currently learning Android stuff, like Kotlin and Android Studio.
+- 🌱 I’m currently learning Android, Pyhthon, and Artificial Intellegence
 - 📫 How to reach me: instagram @isrzl_
 
 

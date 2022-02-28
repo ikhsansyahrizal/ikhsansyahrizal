@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I'm Ikhsan Syahrizal, College Student at STMIK AKAKOM YOGYAKARTA  
-Majoring Computer Science (Informatics)  
-6th year student.  
+I'm Ikhsan Syahrizal, College Student at UNIVERSITAS TEKNOLOGI DIGITAL INDONESIA, 
+Majoring Computer Science (Informatics)  6th semester student. 
 
-- 🌱 I’m currently learning Android, Pyhthon, and Artificial Intellegence
+- 🌱 I’m currently learning Android, Python, and Artificial Intellegence
 - 📫 How to reach me: instagram @isrzl_
 
 

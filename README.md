@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 I'm Ikhsan Syahrizal, College Student at UNIVERSITAS TEKNOLOGI DIGITAL INDONESIA, 
-Majoring Computer Science (Informatics)  6th semester student. 
+Majoring Computer Science (Informatics)  7th semester student. 
 
-- 🌱 I’m currently learning Android, Python, and Artificial Intellegence
+- 🌱 I’m currently learning Android, Python, ReactJS and Artificial Intellegence
 - 📫 How to reach me: instagram @isrzl_
 
 

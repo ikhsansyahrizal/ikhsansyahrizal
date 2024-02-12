@@ -2,7 +2,7 @@
 
 I'm Ikhsan Syahrizal, having interest in technology, specially programming. 
 
-- 🌱 I’m currently learning Android, Python, ReactJS and Artificial Intellegence
+- 🌱 I’m currently focusing as Native Android Developer.
 - 📫 How to reach me: instagram @isrzl_
 
 

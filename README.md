@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 I'm Ikhsan Syahrizal, having interest in technology, specially software engineering.
-Passionate software Engineer in Native Mobile Development with Kotlin and Swift.
+Passionate software Engineer in Native Mobile Development with Kotlin, Swift and Dart.
 
 - 🌱 I’m currently focusing as Native Android Developer on Fintech industry.
-- 📖  In the midst of iOS development studies with SwiftUI / Storyboard.
+- 📖  In the midst of iOS development studies with SwiftUI / Storyboard and Flutter.
 - 📫 How to reach me: instagram @syahrizal_ikhsan
 - 👉 Connect me in Linkedin : [Ikhsan Syahrizal](https://www.linkedin.com/in/ikhsan-syahrizal-33734a20b/)
 
